@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 142 */
+/* New Things Every Day — Day 142 */
 /* Analyzes project resources and creates an efficiency report */
 
 function dailyLog142() {
